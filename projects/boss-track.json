@@ -1,0 +1,19 @@
+{
+  "name": "Boss Track",
+  "slug": "boss-track",
+  "date": "2022-09-20",
+  "highlight": "Boss Track is a DeFi portfolio tracker which gives users real time price data on their on-chain assets.",
+  "logo": "https://i.imgur.com/M9ldHGf.png",
+  "tags": ["defi","dashboard","portfolio"],
+  "status": "live",
+  "website": "http://bosstrack.com/",
+  "twitter": "https://twitter.com/Boss__Track",
+  "summary": "Boss Track lets users track the real time performance data on their web3 wallet in an easy to understand dashboard. Data from the blockchain is taken from explorers which lets users see their profits and losses on their assets and overall wallet. Boss Track is compatible with Avalanche and other chains.",
+  "telegram": "https://t.me/bosstokencrypto",
+  "discord": "",
+  "docs":"",
+  "github":"https://github.com/BossTokenCrypto",
+  "token":"BOSS",
+  "cmc":"https://coinmarketcap.com/currencies/boss-token/"
+  
+}
